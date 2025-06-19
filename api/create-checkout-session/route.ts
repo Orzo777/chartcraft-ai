@@ -1,0 +1,1 @@
+// [встав сюди код Stripe Checkout]
