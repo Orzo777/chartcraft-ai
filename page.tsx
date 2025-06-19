@@ -1,2 +1,7 @@
-// ChartCraft main UI (генератор графіка)
-// [встав сюди код з UI, який ми писали раніше]
+export default function Home() {
+  return (
+    <main>
+      <h1>Welcome to ChartCraft AI</h1>
+    </main>
+  );
+}

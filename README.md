@@ -1,3 +1,3 @@
-# ChartCraft — AI Charts for Newsletters
+# ChartCraft AI
 
-Follow the README file provided earlier to deploy this site on Vercel.
+AI-сервіс для створення графіків з даних.
